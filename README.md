@@ -48,3 +48,5 @@ In this architecture diagram:
 • The backend is represented by the "Backend" section, consisting of API endpoints for Users, Orders, Products, etc.,It also includes Admin Authentication and an Admin Dashboard. 
 
 •  The Database section represents the database that stores collections for Users, cart, Orders and Product.# Full-stack-Developer
+
+📧 Contact Bhargavi Kagita - kagitabhargavi8@gmail.com
