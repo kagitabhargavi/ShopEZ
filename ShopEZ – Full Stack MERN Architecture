@@ -1,0 +1,6 @@
+shopez/
+│
+├── client/              # React Frontend
+├── server/              # Node.js Backend
+├── package.json
+└── README.md
